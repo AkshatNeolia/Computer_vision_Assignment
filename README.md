@@ -77,10 +77,8 @@ import os
 ## 📂 Project Structure
 ```
 📁 ComputerVision-Thresholding
-│── 📜 adaptive_gaussian_thresholding.py
-│── 📁 thresholded_images/
+│── 📜 Gaussian Threshold.py
 │── 📜 README.md
-│── 📷 sample_images.jpg
 ```
 
 ---
