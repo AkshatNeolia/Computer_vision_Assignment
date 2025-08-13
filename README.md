@@ -1,4 +1,3 @@
-
 # 🖼️ Computer Vision Assignment – Classical Filtering & Thresholding
 
 **Author:** [AkshatNeolia](https://github.com/AkshatNeolia)  
@@ -100,7 +99,9 @@ import os
 
 | Original Image | Adaptive Gaussian Threshold |
 |---------------|-----------------------------|
-| ![original](sample_original.jpg) | ![processed](sample_threshold.jpg) |
+| <img width="213" height="213" alt="{F82AEA86-C69A-4081-974D-A88D96069171}" src="https://github.com/user-attachments/assets/2b7fdb74-1075-478a-ba35-031c071a4119" />
+ | <img width="221" height="211" alt="{57BDD0C9-458A-4533-B73B-AB04F30DB94F}" src="https://github.com/user-attachments/assets/13fd506e-3754-4eb2-8857-e0850807b638" />
+ |
 
 ---
 
